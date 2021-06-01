@@ -1,0 +1,329 @@
+*{margin:0px;padding:0px;}
+
+
+div.container{
+    width: 1000px;
+    height:1110px;
+    background: transparent;  
+      background: -webkit-linear-gradient(to bottom, rgba(24,54,85,1.00), transparent 25%);  
+      background: linear-gradient(to bottom, rgba(24,54,85,1.00), transparent 25%); 
+    margin: 0px auto;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+transition: transform 300ms, box-shadow 300ms;
+}
+
+
+div.DivHoldingPicAndH3{
+    width: 300px;
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 0px;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+transition: transform 300ms, box-shadow 300ms;
+border-radius: 25px;
+}
+
+
+.h3{
+    color:white;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px;
+    background: black;
+    float: left;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+    transition: transform 300ms, box-shadow 300ms;
+    border-radius: 25px;
+    }
+
+
+div.NavBar{
+    vertical-align: top;
+    display: inline-block;
+    font-size: 10px;
+    color: white;
+    background: black;
+    padding-left: 357px;
+    margin-left:0px;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+    transition: transform 300ms, box-shadow 300ms;
+    border-radius: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+p.Ps{
+    display:inline-block;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 9px;
+    padding-left: 10px;
+    vertical-align: top;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+transition: transform 300ms, box-shadow 300ms;
+color: yellow;
+}
+
+
+div.DivWFirstBox{
+    vertical-align: top;
+    display:inline-block;
+    
+}
+
+
+
+p.TextInFirstBoxTopLeft{
+    display:inline-block;
+    vertical-align: top;
+    width: 390px;
+    height: 60px;
+    text-align: center;
+    margin-top: 8px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+img.ImgAlign{
+    display:inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+}
+
+
+button.FirstButton{
+    background:black;
+    margin: -70px 0px 10px 290px;
+    color: white;
+    border-radius: 16px;
+    padding: 13px;
+    display:inline-block;
+    vertical-align: top;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+transition: transform 300ms, box-shadow 300ms;
+font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+
+div.AlignGearIcon{
+    margin-top: 59px;
+
+    display:inline-block;
+    vertical-align: top;
+    background: lightgray;
+}
+
+
+div.Alignh4FirstIconBOX{
+    margin-top: 59px;
+    display:inline-block;
+    vertical-align: top;
+    background: lightgray;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+
+
+p.AlignPTagInsideBoxWithIcon{
+
+width: 160px;
+height: 150px;
+vertical-align: top;
+text-align: center;
+margin-top: 10px;
+color:blue
+font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+p.AlignPTagInsideBoxWithIcon2s{
+
+    width: 160px;
+    height: 150px;
+    vertical-align: top;
+    text-align: center;
+    color:yellow;
+    font-family: 'Josefin Sans', sans-serif;
+
+    }
+    
+
+
+
+
+div.Alignh4FirstIconBOXBUTAllWHITE{
+
+    margin-top: 59px;
+    display:inline-block;
+    vertical-align: top;
+    background:white;
+    height: 300px;
+    padding:10px;
+    text-align:center;
+
+}
+
+
+
+h4.AlignAnotherH4{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    scroll-margin-top: 4px;
+
+}
+
+div.AlignRecycleBin{
+
+    margin-top: 59px;
+    display:inline-block;
+    vertical-align: top;
+    background: white;
+    height: 300px;
+    margin-bottom: 40px;
+    padding-bottom: 18px;
+    b
+
+}
+
+
+p.PinsideCrapITALIGNMENT{
+
+    vertical-align:top;
+    display:inline-block;
+    height:150px;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+transition: transform 300ms, box-shadow 300ms;
+font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+
+div.LastBlackBoxes{
+    background: black;
+    color:hotpink;
+    width: 332px;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 10px;
+    margin: 0px;
+    height: 365px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    border-top-left-radius: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    box-shadow: 0 -5px 85px -5px #333;
+
+
+}
+
+
+div.LastBlackBoxes2{
+    background: black;
+    color:hotpink;
+    width: 332px;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 10px;
+    margin: 0px;
+    height: 365px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    box-shadow: 0 -5px 85px -5px #333;
+
+}
+
+
+h4.TryingToAlignH4{
+    border-radius: 25px;
+    vertical-align:top;
+    display:inline-block;
+    text-align: center;
+}
+
+
+
+div.ALIGNmainPic{
+    vertical-align:top;
+    display:inline-block;
+    padding-left:133px;
+    width: 100px;
+    box-shadow: 0 5px 20px rgba(0,0,0,.25);
+transition: transform 300ms, box-shadow 300ms;
+height: 248.5px;
+border-radius: 25px;
+border-top-right-radius: 25px;
+
+  }
+
+.NavBar img{
+    float: left;
+    vertical-align: top;
+    margin-left: -354px;
+}
+
+.NavBar h3{
+    float: left;
+    vertical-align: top;
+    margin-left: -271px;
+    font-size: 19px;
+    margin-top: 7px;
+
+}
+
+.NavBar p{
+    float: right;
+    vertical-align: top;
+    margin-right: 79px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-top: 13px;
+
+}
+
+.DivWFirstBox img{
+    float: right;
+}
+
+h2.h2Alignment{
+    text-align: center;
+    margin-top:12px;
+    color: rgb(194, 23, 0);
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+form.FormAlignment{
+background-blend-mode: hard-light;
+margin-top: 90px;
+background: darkslategrey;
+border-radius: 25px;
+}
+
+
+input.InPutAlign{
+    background: lightcoral;
+
+    border-radius: 25px;
+}
+/*position: relative for doing background image, 
+you can use unordered lists too inside divs with inline blocks, 
+use margin to space boxes
+only use margin, padding, display, vertical-align, width(minimum width), 
+and height (minimum height) also "a" is inline 
+and divs are blocks
